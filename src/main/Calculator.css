@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.calculator {
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #190331;   
+    width: 330px; 
+    height: 100%;
+    position: relative;
+    top: 80px;
+    padding: 20px 10px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+@media (max-width: 700px) {
+    .calculator {
+        width: 260px;
+    }      
+}

@@ -1,3 +1,5 @@
+![This is a alt text.](/assets/screenshoot.png "Screenchoot")
+
 <h1 align="center">React Calculator</h1>
 
 <div align="center">
@@ -9,9 +11,6 @@ A cool **calculator** made with [`React`](https://facebook.github.io/react/)
 [![Badge](https://img.shields.io/badge/License-MIT-8E2DE2.svg)]()
 
 </div>
-
-![This is a alt text.](/assets/screenshoot.png "Screenchoot")
-
 
 
 ## about

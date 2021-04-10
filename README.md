@@ -29,5 +29,5 @@ Open an **issue** or **pull request** for this project
 
 ## License
 
-[MIT License](https://github.com/fmm312/calculator-react/blob/master/LICENSE)
+[MIT License](https://github.com/fmm312/calculator/blob/master/LICENSE)
 

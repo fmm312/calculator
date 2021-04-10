@@ -13,11 +13,18 @@ A cool **calculator** made with [`React`](https://facebook.github.io/react/)
 </div>
 
 
-## about
+## About
 
 A beautiful calculator with basic mathematical operations, is an important tool to be used on a daily basis.
 
 ## Contribute
+
+1. `git clone https://github.com/fmm312/calculator-react.git`
+
+2. `yarn`
+
+3. `yarn start`
+
 Open an **issue** or **pull request** for this project
 
 ## License

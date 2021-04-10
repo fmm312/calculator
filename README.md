@@ -1,5 +1,3 @@
-![This is a alt text.](/assets/screenshoot.png "Screenchoot")
-
 <h1 align="center">React Calculator</h1>
 
 <div align="center">
@@ -12,6 +10,9 @@ A cool **calculator** made with [`React`](https://facebook.github.io/react/)
 
 </div>
 
+![This is a alt text.](/assets/screenshoot.png "Screenchoot")
+
+
 
 ## about
 
@@ -22,5 +23,5 @@ Open an **issue** or **pull request** for this project
 
 ## License
 
-[MIT License]()
+[MIT License](https://github.com/fmm312/calculator-react/blob/master/LICENSE)
 
